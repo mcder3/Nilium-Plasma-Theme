@@ -9,30 +9,44 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg2"
-   viewBox="0 0 54 32"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="nepomuk.svg">
+   viewBox="0 0 70 32"
+   inkscape:version="0.92.3 (unknown)"
+   sodipodi:docname="nepomuk.svg"
+   width="70"
+   height="32">
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#3c3c3c"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
      guidetolerance="10"
-     inkscape:pageopacity="0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-height="1011"
      id="namedview12"
-     showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="16.635283"
-     inkscape:cy="-29.418835"
+     showgrid="true"
+     inkscape:zoom="8"
+     inkscape:cx="40.591339"
+     inkscape:cy="9.4278041"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
-     inkscape:pagecheckerboard="true" />
+     inkscape:pagecheckerboard="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid818"
+       originx="0"
+       originy="0" />
+  </sodipodi:namedview>
   <metadata
      id="metadata18">
     <rdf:RDF>
@@ -88,7 +102,7 @@
   <g
      style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
      id="nepomuk"
-     transform="translate(22)">
+     transform="translate(38)">
     <path
        inkscape:connector-curvature="0"
        id="path2"
@@ -106,7 +120,7 @@
   <g
      style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
      id="22-22-nepomuk"
-     transform="translate(0,10)">
+     transform="translate(16,10)">
     <path
        inkscape:connector-curvature="0"
        id="path2-2"
@@ -120,5 +134,21 @@
        width="22"
        id="rect817"
        style="fill:#ffffff;fill-opacity:0;stroke-width:0.97047877" />
+  </g>
+  <g
+     id="16-16-nepomuk"
+     transform="translate(0,16)">
+    <path
+       id="path820-9"
+       d="M 6.5,1 A 5.5,5.5 0 0 0 1,6.5 5.5,5.5 0 0 0 6.5,12 5.5,5.5 0 0 0 10.017578,10.724609 l 3.628906,3.628907 0.707032,-0.707032 -3.63086,-3.630859 A 5.5,5.5 0 0 0 12,6.5 5.5,5.5 0 0 0 6.5,1 Z m 0,1 A 4.5,4.5 0 0 1 11,6.5 4.5,4.5 0 0 1 10.011719,9.3046875 4.5,4.5 0 0 1 9.9414062,9.3984375 4.5,4.5 0 0 1 9.6347656,9.7285156 4.5,4.5 0 0 1 9.3085938,10.015625 4.5,4.5 0 0 1 6.5,11 4.5,4.5 0 0 1 2,6.5 4.5,4.5 0 0 1 6.5,2 Z"
+       style="opacity:1;fill:#ffffff;fill-opacity:1"
+       inkscape:connector-curvature="0" />
+    <rect
+       y="0"
+       x="0"
+       height="16"
+       width="16"
+       id="rect859"
+       style="opacity:1;fill:#00ff00;fill-opacity:0" />
   </g>
 </svg>
