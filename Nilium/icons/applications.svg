@@ -12,7 +12,7 @@
    id="svg3613"
    version="1.1"
    sodipodi:docname="applications.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -26,9 +26,9 @@
      inkscape:window-height="1009"
      id="namedview12"
      showgrid="true"
-     inkscape:zoom="1"
-     inkscape:cx="-622.19741"
-     inkscape:cy="-114.6251"
+     inkscape:zoom="5.656854"
+     inkscape:cx="72.107668"
+     inkscape:cy="18.500995"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

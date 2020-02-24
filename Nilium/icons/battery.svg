@@ -9,15 +9,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
+   width="32"
+   height="32"
    id="svg7229"
    sodipodi:version="0.32"
-   inkscape:version="0.92.3 (unknown)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    version="1.0"
    sodipodi:docname="battery.svg"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
-   viewBox="0 0 16 16">
+   viewBox="0 0 32 32">
   <defs
      id="defs7231">
     <style
@@ -100,15 +100,15 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="-39.829529"
+     inkscape:cx="17.295461"
      inkscape:cy="12.472826"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1029"
+     inkscape:window-height="1009"
      inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-y="0"
      showguides="true"
      inkscape:guide-bbox="true"
      gridtolerance="10000"
@@ -131,8 +131,8 @@
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true"
-       originx="-74.999986"
-       originy="29.999995" />
+       originx="32.000004"
+       originy="-30.000005" />
   </sodipodi:namedview>
   <metadata
      id="metadata7234">
@@ -142,7 +142,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -150,7 +150,7 @@
      inkscape:label="Camada 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-289.53571,-440.50504)">
+     transform="translate(-182.53572,-364.50504)">
     <g
        id="16-16-Fill100"
        transform="translate(4.4335937e-6,4.5996094e-6)">
@@ -1024,6 +1024,30 @@
          width="16"
          id="rect991"
          style="opacity:1;fill:#00ffff;fill-opacity:0;stroke-linecap:square" />
+    </g>
+    <g
+       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
+       id="battery"
+       transform="translate(182.53572,332.50504)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2-67"
+         style="fill:#ffffff"
+         d="M 21,29 H 11 C 9.896,29 9,28.104 9,27 V 7 C 9,5.896 9.896,5 11,5 h 10 c 1.104,0 2,0.896 2,2 v 20 c 0,1.104 -0.896,2 -2,2 z M 21,6 H 11 c -0.552,0 -1,0.448 -1,1 v 20 c 0,0.552 0.448,1 1,1 h 10 c 0.552,0 1,-0.448 1,-1 V 7 C 22,6.448 21.552,6 21,6 Z M 14,5 h -1 c 0,-1.104 0.896,-2 2,-2 h 2 c 1.104,0 2,0.896 2,2 H 18 C 18,4.448 17.552,4 17,4 h -2 c -0.552,0 -1,0.448 -1,1 z" />
+      <rect
+         id="rect4-5"
+         style="fill:#ffffff"
+         height="20"
+         width="10"
+         y="7"
+         x="11" />
+      <rect
+         y="0"
+         x="0"
+         height="32"
+         width="32"
+         id="rect824-3"
+         style="fill:#ffffff;fill-opacity:0" />
     </g>
   </g>
 </svg>
